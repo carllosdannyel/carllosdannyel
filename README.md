@@ -1,4 +1,4 @@
-### Olá, eu sou o carllosdannyel, estudante de Desenvolvimento Web da Trybe.
+### Olá, eu sou o Carlos Daniel, estudante de Desenvolvimento Web da Trybe.
 
 <div align="center">
   <a href="https://github.com/carllosdannyel">
