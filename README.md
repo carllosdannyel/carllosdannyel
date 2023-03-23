@@ -3,48 +3,36 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/header.png?raw=true"/>
 </div>
 
 -----
 
-<div>
+<div align="center">
 <table>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/carllosdannyel" target="_blank"><img src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:carlosdanielpereirasantos18@gmail.com" target="_blank"><img src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5583999750156" target="_blank"><img src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/carllosdannyel/" target="_blank"><img src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lattes.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td> <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/skoob.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/scholar.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/carllosdannyel/" target="_blank"><img src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-
 </div>
+
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <b>Aramuni</b>, tenho 32 anos, sou de BH e sou programador desde os 15 anos de idade.</i><br /><i>Atualmente sou <b>Tech Lead</b> no time de currículo de ciência da computação na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
+<i><b>Olá</b> :wave:, sou o <b>Carlos Daniel</b>, tenho 23 anos, sou de Princesa Isabel - PB e sou apaixonado por tecnologia e educação.</i><br /><i>Atualmente sou <b>estudante</b> de Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> e estou em busca de uma oportunidade no mercado de trabalho.</i>
 </div>
 
 -----
@@ -52,35 +40,7 @@
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Sobre mim:
 
 <div align="justify">
-Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" target="_blank">Sistemas de Informação e Gestão do Conhecimento</a> pela <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>. Possui graduação em <a href="https://processoseletivo.fumec.br/curso/ciencia-da-computacao/" target="_blank">Ciência da Computação</a> pela <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> (2010-2013) e cursa licenciatura em <a href="https://portal.uniasselvi.com.br/lista-cursos-graduacao/mt/sinop/cursos/andragogia/ead" target="_blank">Andragogia</a> pela <a href="https://portal.uniasselvi.com.br/" target="_blank">Uniasselvi</a> (2023-2027). Profissional com 12 anos de experiência no mercado de desenvolvimento de sistemas e há 8 anos na área de educação com ensino de tecnologia. Atualmente é Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, responsável pela pesquisa e tomada de decisão em hard skills, formação e desenvolvimento técnico do time, produção de conteúdo e revisão técnica. Foi professor de Arquitetura de Software e <a href="https://github.com/joaopauloaramuni/engenharia-de-requisitos" target="_blank">Engenharia de Requisitos</a> na XP Educação - <a href="https://www.xpeducacao.com.br/">XPE</a> e professor das disciplinas de <a href="https://github.com/joaopauloaramuni/poo">Programação Orientada a Objetos</a> com <a href="https://github.com/joaopauloaramuni/java">Java</a> (3º Período), <a href="https://github.com/joaopauloaramuni/fundamentos-teoricos-da-computacao" target="_blank">Fundamentos Teóricos da Computação</a> (5º Período) e <a href="https://github.com/joaopauloaramuni/compiladores" target="_blank">Compiladores</a> com <a href="https://github.com/joaopauloaramuni/cpp" target="_blank">C++</a> (6º Período) do Curso de Ciência da Computação, das disciplinas de Engenharia de Software II e Introdução à Programação Web do curso de Sistemas de Informação EaD e das disciplinas de Desenvolvimento de Scripts I (<a href="https://github.com/joaopauloaramuni/vbscript" target="_blank">VBScript</a>) e II (<a href="https://github.com/joaopauloaramuni/shellscript" target="_blank">Shell Script</a>) do Curso Superior de Tecnologia em Redes de Computadores da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>. Orientou mais de 30 trabalhos de conclusão de curso na área de ciência da computação. Integrou a <a href="https://in8.com.br/" target="_blank">IN8</a> - Produtos Digitais como desenvolvedor back-end sênior onde atuou com web scraping e criação de crawlers em <a href="https://github.com/joaopauloaramuni/python" target="_blank">Python</a> para programas de milhas aéreas. Atuou como analista de sistemas do grupo <a href="https://www.capgemini.com/br-pt/" target="_blank">Capgemini</a> com prestação de serviços de tecnologia da informação. Trabalhou alocado na <a href="https://www.prosegur.com.br/" target="_blank">Prosegur</a> Brasil com desenvolvimento de sistemas em Java para logística e transporte de valores. Tem experiência nos campos de: Liderança e gestão de pessoas, Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global (AR/AUS/BR/CHN/DE/ESP/FRA/RSA/URU), Manutenção de sistemas legados, Design patterns, Boas práticas de programação, Banco de dados e Metodologias ágeis: Scrum e Lean. Experiência com fabricação de software para projetos da Oi Telecomunicações, ANP - Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Banco do Brasil S/A, VSB - Vallourec & Sumitomo Tubos do Brasil, Ferrous Resources do Brasil, Prosegur Brasil e HotMilhas. Possui artigos e projetos sobre metodologias ágeis publicados em revistas científicas de impacto nacional e internacional. Foi membro do grupo de pesquisa <a href="http://www.fumec.br/lais/index.html" target="_blank">LAIS</a> (Laboratório de Sistemas de Informação Avançados) e coordenador de projetos de extensão. Atualmente pesquisa sobre Gestão ágil do conhecimento, Andragogia e Tecnologias para ensino remoto.
-</div>
-
------
-
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
-</div>
-
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:
-
-<div align="justify">
-<p>
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuo como Tech Lead de Currículo.<br />
-(Responsável pelo currículo <i>hard skills</i> de Ciência da Computação)<br />
-- :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c target="_blank"">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :octocat:&nbsp; Tenho 2 gatos. Maju e Mingau.<br />
-- :soccer:&nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com" target="_blank">Trybe</a>.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
-</p>
-</div>
+Nascido em Campinas - SP, desde criança sempre fui curioso em saber o porque das coisas, sempre gostei de estudar principalmente na área de exatas, ver como as coisas são como são com uma lógica e sentido me deixa muito facinado em querer saber mais sobre e ir sempre a fundo, foi ai que ao terminar os estudos (ensino médio) descobri a <a href="https://www.betrybe.com/"target="_blank">Trybe</a>, uma escola que te ensina a programar sistemas da web e com mais de 30 projetos desenvolvidos durante os estudos tanto em front-end, back-end e ciência de dados, pude conhecer e desenvolver habilidades importantes como hard-skills e soft-skills.
 </div>
 
 -----
@@ -89,74 +49,38 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/html.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/c.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/css.svg"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/cpp.svg"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/js.png"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/csharp.png"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/react.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/java.png"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/mysql.png"/></a></code>
+&nbsp;  
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/mongodb.png"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/nodejs.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/docker.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/heroku.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/postman.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vbs.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/php.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postgresql.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lua.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
-&nbsp; 
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dotnet.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soap.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pc.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/eclipse.png"/></a></code>
-&nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/vs.png"/></a></code>
 </div>
 
 -----
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carllosdannyel&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carllosdannyel&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carllosdannyel&theme=github_dark"/>
 </div>
 
 -----
@@ -168,7 +92,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </div>
 <div>
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
-<a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="350px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/trybefi.png" alt="Trybe-Fi"></a><br />
+<a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="350px" src="https://github.com/carllosdannyel/carllosdannyel/blob/main/img/trybefi.png" alt="Trybe-Fi"></a><br />
 </div>
 </div>
 
@@ -186,9 +110,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Expert-blue"/>
-<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
+<img src="https://img.shields.io/badge/Javascript-Expert-blue?logo=Javascript"/>
+<img src="https://img.shields.io/badge/Typescript-Expert-blue?logo=Typescript"/>
+<img src="https://img.shields.io/badge/Python-Enthusiast-blue?logo=Python"/>
+<img src="https://img.shields.io/badge/Java-Enthusiast-blue?logo=Java"/>
 <img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
@@ -199,16 +124,16 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a><br />
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
-<img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=carllosdannyel"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/carllosdannyel?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/carllosdannyel?style=social"/>
 </div>
 
 -----
 
 <div>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
-| Última atualização: 06/03/2023
+| Última atualização: 23/03/2023
 </div>
 
 -----
